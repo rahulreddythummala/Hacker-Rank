@@ -1,0 +1,1 @@
+If the linked list is unsorted and contains characters then we use bit manipulation
